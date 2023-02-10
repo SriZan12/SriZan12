@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SriZan12
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development with Java
+- 🌱 I’m currently learning Android Development with Java and Kotlin
 
 <!---
 SriZan12/SriZan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
